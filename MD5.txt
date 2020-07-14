@@ -1,0 +1,4 @@
+MD5  f52d4f5b8529531b3d5f98c8e7634146
+SHA1 8df6bdbeda6bb29084c262d6ded988962af4d4ad
+
+certutil -hashfile 路径 md5
